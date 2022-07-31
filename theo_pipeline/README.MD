@@ -17,7 +17,7 @@ The hdf5toPNG and fft processing are in preprocessing/hdf5_to_images.py
 *************************************************************************************************************************************************************************
 
 
-Team 1 of the REU program at UMBC in the Summer 2022 <br>
+Team 1 UMBC REU Summer 2022
 **Title:** Big Data and Machine Learning Techniques for Atmospheric Gravity Wave Detection <br>
 **Team Members:** Hannah Nguyen, Jorge Gonzalez, Kathryn Chen, Theodore Chapman, Logan Chambers <br>
 **Mentors:** Dr. Jianwu Wang <br>
