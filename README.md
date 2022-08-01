@@ -18,5 +18,5 @@ The names of each directory in this repository correspond to their purpose.<br>
 <b>Cite Our Work</b><br>
 <b>Paper information:</b> Hannah Nguyen, Jorge Gonzalez, Kathryn Chen, Theodore Chapman, Logan Chambers, Seraj Mostafa, Jianwu Wang. Big Data and Machine Learning Techniques for Atmospheric Gravity Wave Detection. Not yet accepted by the 2022 IEEE International Conference on Big Data which is in December 2022.
 <br>
-<b>Publication</b><br>
+<b>Publication</b>:
 Not yet accepted by the 2022 IEEE International Conference on Big Data which is in December 2022.
