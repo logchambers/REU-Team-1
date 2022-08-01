@@ -1,6 +1,6 @@
 This readme is not a completed work.
 
-The 'models' folder contains...
+The 'models' folder includes files;
 basic_autoencoder.py - artificial neural network (CNN) using unsupervised learning in image reconstruction
 basic_autoencoder_transfer.py - 
 localization_inceptionv3.py - 
