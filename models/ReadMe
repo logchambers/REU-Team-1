@@ -1,0 +1,16 @@
+This readme is not a completed work.
+
+The 'models' folder includes files;
+basic_autoencoder.py - artificial neural network (CNN) using unsupervised learning in image reconstruction
+basic_autoencoder_transfer.py - 
+localization_inceptionv3.py - 
+utils.py - 
+
+The folder named 'benchmarking' includes files;
+Alexnet.py - convolutional neural network (CNN) architecture which uses GPU to boost performance
+EfficientNet.py - convolutional neural network (CNN) architecture and scaling method that uniformly scales all dimensions of depth/width/resolution using a compound coefficient.
+InceptionV3.py -convolutional neural network (CNN) for assisting in image analysis and object detection
+Resnet50.py -convolutional neural network (CNN) that is 50 layers deep.
+VGG16.py - convolutional neural network (CNN) that is 16 layers deep. 
+mixed6_inceptionv3.py - pre-trained InceptionV3 Model cut off at the concatenated 'mixed6' layer, with only layers between 'mixed5' and 'mixed6' set to be trainable 
+shallow_cnn.py - shallow convolutional neural network (SCNN) that has a relatively simple network structure and relatively few network parameters
