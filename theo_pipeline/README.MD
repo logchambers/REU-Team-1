@@ -11,7 +11,7 @@ Dataset args are used in data_loaders/load_data.py
 dataset names are declared in utils/paths.py
 
 This is a work in progress atm because I was rewriting it to make it easier to work on my project when I gave up on my project. I'll clean it up ... on the 26th probably, but the structure will remain the same.
-The hdf5toPNG and fft processing are in preprocessing/hdf5_to_images.py
+The hdf5toPNG and fft processing are in preprocessing/hdf5_to_images.py 
 
 
 *************************************************************************************************************************************************************************
