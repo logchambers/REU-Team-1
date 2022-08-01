@@ -1,9 +1,0 @@
-Analysis
-
-This directory contains the files used for analysis on atmospheric gravity waves data.
-
-In order to run any .ipynb files, you will need jupyter notebook
-
-The .ipynb_checkpoint folder contains a file that is a checkpoint for a test data loader.
-
-The test_dataloaders.ipynb file in the analysis folder samples minibatches from a dataset, giving us the flexibility to choose from different sampling strategies.
