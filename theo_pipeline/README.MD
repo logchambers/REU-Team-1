@@ -1,7 +1,3 @@
-This documentation is under construction.
-
-*************************************************************************************************************************************************************************
-
 Usage:
 on taki use bash meta_train.sh
 args are model_name dataset-dataset_args labelset num_epochs
