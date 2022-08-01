@@ -1,3 +1,7 @@
+This documentation is under construction. Missing utils.
+
+*************************************************************************************************************************************************************************
+
 Usage:
 on taki use bash meta_train.sh
 args are model_name dataset-dataset_args labelset num_epochs
@@ -30,7 +34,7 @@ The names of each directory in this repository correspond to their purpose. <br>
 <b>*Data Loaders*</b> sample minibatches from a dataset, giving us the flexibility to choose from different sampling strategies. <br>
 <b>*Models*</b> contains all models of our CNN and ConvLSTMs as well as sample outputs from each model and a copy of the land mask that is used to filter out land values.<br>
 <b>*Preprocessing*</b> is where the train and test data sets for each model can be found as well as the code from which they were derived. <br>
-<b>*Utils*</b> not sure what to put for this<br>
+<b>*Utils*
 <br>
 ### Cite Our Work<br>
 Paper information: Hannah Nguyen, Jorge Gonzalez, Kathryn Chen, Theodore Chapman, Logan Chambers, Seraj Mostafa, Jianwu Wang. Big Data and Machine Learning Techniques for Atmospheric Gravity Wave Detection. Not yet accepted by the 2022 IEEE International Conference on Big Data (BigData 2021) which is in December 2022.<br>
