@@ -3,7 +3,5 @@ This documentation is a work in progress...
 --------------------------------------------------------------------------------------------------
 
 The preprocessing folder includes files...
-
 create_synthetic_dataset.py - description of file goes here
-
 hd5f_to_images.py - description of file goes here
