@@ -1,7 +1,7 @@
 # REU-Team-1<br>
 <br>
 Team 1 UMBC REU Summer 2022 <br>
-Title: Big Data and Machine Learning Techniques for Atmospheric Gravity Wave Detection<br>
+<b>Title:</b> Big Data and Machine Learning Techniques for Atmospheric Gravity Wave Detection<br>
 Team Members: Hannah Nguyen, Jorge Gonzalez, Kathryn Chen, Theodore Chapman, Logan Chambers<br>
 Mentors: Dr. Jianwu Wang<br>
 Colaborators: Dr. Jia Yue, Dr. Chenxi Wang, Dr. Sanjay Purushotham<br>
