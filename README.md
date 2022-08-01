@@ -16,7 +16,7 @@ The names of each directory in this repository correspond to their purpose.<br>
 <b>Preprocessing</b> is where the train and test data sets for each model can be found as well as the code from which they were derived.<br>
 <b>Utils</b><br>
 <br>
-<b>Cite Our Work</b>
+<b>Cite Our Work</b><br>
 <b>Paper information:</b> Hannah Nguyen, Jorge Gonzalez, Kathryn Chen, Theodore Chapman, Logan Chambers, Seraj Mostafa, Jianwu Wang. Big Data and Machine Learning Techniques for Atmospheric Gravity Wave Detection. Not yet accepted by the 2022 IEEE International Conference on Big Data which is in December 2022.
 <br>
 <b>Publication</b><br>
